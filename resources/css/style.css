@@ -541,6 +541,22 @@ input[type="checkbox"] {
   outline: none;
 }
 
+.form-messages {
+  width: 70%;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+.success {
+  background-color: rgb(8, 247, 100, 0.8);
+}
+
+.error {
+  background-color: rgb(238, 11, 11, 0.8);
+}
+
 /* ------------------------------------------------------------- */
 /* FOOTER */
 /* ------------------------------------------------------------- */
